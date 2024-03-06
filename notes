@@ -1,0 +1,5 @@
+(*) Singleton: a design pattern that ensures that only one instance of a class, that can be instanciated
+in the entire application. to implement this in c++, all the constructors shall be private
+to ensure that the class cannot be instanciated outside of its declaration or definition.
+then declare a function with a static variable (static Class object;) that returns always the same static object.
+Go to learn.cpp file to find a very easy example.
