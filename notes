@@ -16,3 +16,7 @@ instance of another class.
 (*) Dependency relationship: In every composition, aggregation (or generally            association) relationship case, there is at least one dependency relationship.
     so it is redundant to add an arrow representing dependency.
     But in the case where a class is neither containing nor collecting an object of another class, but still use it in its implementation (it could be a parameter of a method for example), it is important to represent the dependency relationship between the two, since the first class is depending in its implementation of the second class. a use relationship is also applicable in the lsat case.
+
+(*) I used implementation arrow to represent inheritance between the LinkablePart interface and non-interface classes (non-interface means that these classes will implement the interface, not just extend it).
+
+(*) Advice: if you decide using the same site i used (see resources), when you're done choose extracting your diagram with JPEG not PNG, don't worry the output file will be in PNG format even if you specified JPEG, it may look to you like a bug, but it's a life saving feature for me, because the output will be much better than if you choose extracting with PNG.
