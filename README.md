@@ -4,7 +4,7 @@
 
 ## About
 
-This is the second module of the advanced pescine of OOP, it will introduce to how variables/attributes can be linked together, using specific kind of relationship.
+the third module of the advanced OOP pescine, this module will introduce Universal Modeling Langage. 
 Here is the link to the [subject](https://cdn.intra.42.fr/pdf/pdf/109505/en.subject.pdf)
 
 ## Installation && Usage
