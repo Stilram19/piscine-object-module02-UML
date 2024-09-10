@@ -1,10 +1,10 @@
-# Advanced OOP Pescine - Module 02 (UML)
+# Advanced OOP Piscine - Module 02 (UML)
 
 ![](resources/intro.png)
 
 ## About
 
-the third module of the advanced OOP pescine, this module will introduce Universal Modeling Langage. 
+the third module of the advanced OOP piscine, this module will introduce Universal Modeling Langage. 
 Here is the link to the [subject](https://cdn.intra.42.fr/pdf/pdf/109505/en.subject.pdf)
 
 ## Installation && Usage
